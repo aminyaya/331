@@ -5,8 +5,16 @@ public class BookController{
  @Autowird
  private IBookService bookService;
 
+<<<<<<< HEAD
 	private String name;
 	private int sid;
 	private String age;
+=======
+hjfdjjkhfjfjdh
+fskjdksf
+kjfds 
+
+>>>>>>> bc183bdd3a82d360bcc302d396c8d2fca04f2618
+.ksfdfdfdf哈哈哈哈哈
 
 }

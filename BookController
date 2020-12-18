@@ -1,0 +1,8 @@
+package com.zking.controller;
+
+@Controller
+public class BookController{
+ @Autowird
+ private IBookService bookService;
+ 
+}

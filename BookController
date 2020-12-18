@@ -4,5 +4,9 @@ package com.zking.controller;
 public class BookController{
  @Autowird
  private IBookService bookService;
- 
+
+	private String name;
+	private int sid;
+	private String age;
+
 }
